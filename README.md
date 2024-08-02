@@ -1,6 +1,6 @@
 # MoneySign®
 
-![Animated Image 1](images/ms.gif)
+![Animated Image 1](Images/ms.gif)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://moneysign.s3.ap-south-1.amazonaws.com/Moneysign_SDK/turtle.svg" alt="Vigilant Turtle" style="width: 200px; height: 150px;">
