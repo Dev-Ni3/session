@@ -21,10 +21,10 @@ Provide step-by-step instructions on how to install your project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/project-name.git
+git clone https://github.com/1-Fin/MSV2.git
 
 # Navigate to the project directory
-cd project-name
+cd MSV2
 
 # Install dependencies
 npm install
