@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Technology Used](#technology-used)
 - [Prerequisites](#prerequisites)
+- [Technology Used](#technology-used)
 - [Installation](#installation)
 - [Contributing](#contributing)
 
