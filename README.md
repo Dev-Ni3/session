@@ -1,7 +1,7 @@
 # MoneySign®
 
 <p align="center">
-  <img src="Images/ms.gif" alt="Animation Preview" width="500"/>
+  <img src="Images/ms.gif" alt="Animation Preview" width="200"/>
 </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
