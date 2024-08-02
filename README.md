@@ -1,5 +1,7 @@
 # MoneySign®
 
+![Animated Image 1](https://lottiefiles.com/free-animation/robot-assistant-online-manager-sT8Lqokur4)
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://moneysign.s3.ap-south-1.amazonaws.com/Moneysign_SDK/turtle.svg" alt="Vigilant Turtle" style="width: 200px; height: 150px;">
   <img src="https://moneysign.s3.ap-south-1.amazonaws.com/Moneysign_SDK/horse.svg" alt="Persistent Horse" style="width: 200px; height: 150px;">
