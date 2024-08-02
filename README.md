@@ -17,7 +17,7 @@ We designed the MoneySign® framework as a tool for you to recognise your financ
 Main technologies and tools used in the project.
 
 - Backend: NestJS
-- Database: postgresql, Drizzle ORM
+- Database: Postgresql, Drizzle ORM
 - Other: Docker, TypeScript, etc.
 
 
