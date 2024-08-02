@@ -4,8 +4,8 @@
 
 - [Introduction](#introduction)
 - [Technology Used](#technology-used)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -20,6 +20,13 @@ Main technologies and tools used in the project.
 - Database: Postgresql, Drizzle ORM
 - Other: Docker, TypeScript, etc.
 
+## Prerequisites
+
+Prerequisites for running the project:
+
+- Node.js (version 16.x or higher)
+- npm (version 6.x or higher)
+- NestJS CLI
 
 ## Installation
 
