@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [Technology Used](#technology-used)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
@@ -12,7 +12,13 @@
 
 We designed the MoneySign® framework as a tool for you to recognise your financial disposition. Our in-depth assessment seeks to understand the way you deal with money — your propensity for risk, how you save and invest, your priorities, and so on — which in turn helps us guide you better.
 
-## Features
+## Technology Used
+
+Main technologies and tools used in the project.
+
+- Backend: NestJS
+- Database: postgresql, Drizzle ORM
+- Other: Docker, TypeScript, etc.
 
 
 ## Installation
